@@ -13,6 +13,6 @@ public class DmvSimulator {
       }
     }
     System.out.println("now calling "+ ticketNum);
-    System.out.println("Sorry you don't have the required documents");
+    System.out.println("You do not have any of the required documentation you can leave now have fun waiting in the line again.NEXT!");
   }
 }
